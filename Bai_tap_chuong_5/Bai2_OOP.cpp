@@ -1,7 +1,3 @@
-/**
- *    author:  longvu
- *    created: 10/14/24 20:12:56
-**/
 #include<bits/stdc++.h>
 
 using namespace std;
